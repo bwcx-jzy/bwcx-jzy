@@ -1,25 +1,46 @@
-# bwcx-jzy
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="把重复的运维工作，交给程序。bwcx-jzy，Java 开发者，Jpom 作者" width="100%">
+</picture>
 
-> 一位单纯的java 开发者
+## 关于
 
-## [Gitee](https://gitee.com/bwcx-jzy/)
+我是蒋小小（bwcx-jzy），Java 开发者。
 
+2018 年开源了 [Jpom](https://github.com/dromara/Jpom)：一款低侵入的构建、部署、日常运维与监控工具。
+项目长期以个人维护为主，累计迭代 150+ 个版本，Gitee 12k star。2026 年 2 月起暂停常规功能迭代，
+安全维护继续，最近发布了 [2.11.13 安全修复版](https://jpom.top/pages/security/2.11.13/)。
 
-[![dromara/Jpom](https://gitee.com/dromara/Jpom/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/dromara/Jpom)
+## 在做
 
+- **[Jpom](https://github.com/dromara/Jpom) 安全维护**：跟进漏洞、发布修复版本，2.11.13 修复的最高 CVSS 为 9.8
+- **[jpom.top](https://jpom.top)**：维护文档站与安全公告，源站在 [jpom-docs](https://github.com/bwcx-jzy/jpom-docs)
 
-## [Github](https://github.com/bwcx-jzy)
+## 项目
 
+**[Jpom](https://github.com/dromara/Jpom)** · [GitHub](https://github.com/dromara/Jpom) / [Gitee](https://gitee.com/dromara/Jpom) / [文档](https://jpom.top)
 
-![https://github-readme-stats.vercel.app/api?username=bwcx-jzy](https://github-readme-stats.vercel.app/api?username=bwcx-jzy&show_icons=true&theme=dark)
+构建发布、SSH 终端、Docker 管理、在线日志、监控告警，在一套界面里完成。
+GitHub 1.9k star · Gitee 12k star · MulanPSL-2.0
 
-[![Jpom](https://github-readme-stats.vercel.app/api/pin/?username=dromara&repo=Jpom&theme=dark)](https://github.com/dromara/Jpom)
+| 项目 | 说明 |
+| --- | --- |
+| [Fast-boot](https://github.com/bwcx-jzy/Fast-boot) | Spring Boot 脚手架：拦截器、资源预加载、KV 缓存、线程池 |
+| [SimplifyDb](https://github.com/bwcx-jzy/SimplifyDb) | 基于 Druid 的 SQL 构造框架，主键生成器可扩展 |
+| [jpom-docs](https://github.com/bwcx-jzy/jpom-docs) | Jpom 文档站源码，VuePress + Vdoing |
 
+## 技术栈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwcx-jzy&layout=compact)](https://github.com/bwcx-jzy/)
+![Java](https://img.shields.io/badge/Java-334155?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-334155?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-334155?style=flat-square&logo=vuedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-334155?style=flat-square&logo=linux&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-334155?style=flat-square&logo=gnubash&logoColor=white)
 
-## [Jpom](https://gitee.com/dromara/Jpom/) 
+## 联系
 
-[![star](https://gitee.com/dromara/Jpom/badge/star.svg?theme=gvp)](https://gitee.com/dromara/Jpom/stargazers)
-
-[![fork](https://gitee.com/dromara/Jpom/badge/fork.svg?theme=gvp)](https://gitee.com/dromara/Jpom/members)
+- 问题反馈：[Jpom Issues](https://github.com/dromara/Jpom/issues)，中文即可
+- 文档与安全公告：[jpom.top](https://jpom.top)
+- Gitee 同名账号：[gitee.com/bwcx-jzy](https://gitee.com/bwcx-jzy)
